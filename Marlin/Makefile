@@ -1,5 +1,5 @@
 # Marlin Firmware Arduino Project Makefile
-# Hello this is a test change
+# 
 # Makefile Based on:
 # Arduino 0011 Makefile
 # Arduino adaptation by mellis, eighthave, oli.keller
